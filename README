@@ -1,0 +1,6 @@
+Usage instructions:
+
+From the forge prompt, run the "project install-facet forge.seam" command to install the SeamFacet.
+Installing the SeamFacet adds the Seam BOM as a managed dependency import, making available the
+current Seam modules and dependencies.
+ 
